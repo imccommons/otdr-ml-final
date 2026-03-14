@@ -41,7 +41,7 @@ Optional badge:
 
 2.  Start Jupyter:
 
-     Jupyter Notebook
+     Jupyter Notebook - https://jupyter.org/try-jupyter/lab/index.html?path=otdr_ml_pipeline.ipynb
      
 4.  Open and run:
     
