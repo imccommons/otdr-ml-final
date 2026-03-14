@@ -20,7 +20,7 @@ The pipeline is designed as a proof-of-concept using **synthetic OTDR-like data*
 ### Run in your browser (Binder)
 Click the link below to launch and run the notebook without installing anything:
 
-**Binder:** https://mybinder.org/v2/gh/imccommons/otdr-ml-final/HEAD?labpath=otdr_ml_pipeline.ipynb
+**Binder:** https://jupyter.org/try-jupyter/lab/index.html?path=otdr_ml_pipeline.ipynb
 
 Optional badge:
 
@@ -41,7 +41,7 @@ Optional badge:
 
 2.  Start Jupyter:
 
-     Jupyter Notebook - https://jupyter.org/try-jupyter/lab/index.html?path=otdr_ml_pipeline.ipynb
+     Jupyter Notebook
      
 4.  Open and run:
     
